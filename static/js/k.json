@@ -1,0 +1,506 @@
+{
+  "best_flights": [
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Beijing Capital International Airport",
+            "id": "PEK",
+            "time": "2025-03-17 19:20"
+          },
+          "arrival_airport": {
+            "name": "San Francisco International Airport",
+            "id": "SFO",
+            "time": "2025-03-17 15:50"
+          },
+          "duration": 690,
+          "airplane": "Boeing 777",
+          "airline": "United",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+          "travel_class": "Economy",
+          "flight_number": "UA 889",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 698 kg"
+          ],
+          "overnight": true
+        },
+        {
+          "departure_airport": {
+            "name": "San Francisco International Airport",
+            "id": "SFO",
+            "time": "2025-03-17 18:30"
+          },
+          "arrival_airport": {
+            "name": "Austin-Bergstrom International Airport",
+            "id": "AUS",
+            "time": "2025-03-17 23:59"
+          },
+          "duration": 209,
+          "airplane": "Airbus A319",
+          "airline": "United",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+          "travel_class": "Economy",
+          "flight_number": "UA 2077",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 246 kg"
+          ]
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 160,
+          "name": "San Francisco International Airport",
+          "id": "SFO"
+        }
+      ],
+      "total_duration": 1059,
+      "carbon_emissions": {
+        "this_flight": 945000,
+        "typical_for_this_route": 851000,
+        "difference_percent": 11
+      },
+      "price": 997,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+      "booking_token": "WyJDalJJVTB0VFlYVlFXamxxY1VsQlJuZGpWbmRDUnkwdExTMHRMUzB0TFhaMGNtZ3hOa0ZCUVVGQlIyWlhZMVpOUVU5ZlMzVkJFZ3hWUVRnNE9YeFZRVEl3TnpjYUN3akppZ1lRQWhvRFZWTkVPQnh3eVlvRyIsW1siUEVLIiwiMjAyNS0wMy0xNyIsIlNGTyIsbnVsbCwiVUEiLCI4ODkiXSxbIlNGTyIsIjIwMjUtMDMtMTciLCJBVVMiLG51bGwsIlVBIiwiMjA3NyJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Beijing Capital International Airport",
+            "id": "PEK",
+            "time": "2025-03-17 15:35"
+          },
+          "arrival_airport": {
+            "name": "Incheon International Airport",
+            "id": "ICN",
+            "time": "2025-03-17 18:30"
+          },
+          "duration": 115,
+          "airplane": "Boeing 777",
+          "airline": "Asiana Airlines",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/OZ.png",
+          "travel_class": "Economy",
+          "flight_number": "OZ 334",
+          "legroom": "33 in",
+          "extensions": [
+            "Above average legroom (33 in)",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 101 kg"
+          ]
+        },
+        {
+          "departure_airport": {
+            "name": "Incheon International Airport",
+            "id": "ICN",
+            "time": "2025-03-17 20:50"
+          },
+          "arrival_airport": {
+            "name": "San Francisco International Airport",
+            "id": "SFO",
+            "time": "2025-03-17 15:00"
+          },
+          "duration": 610,
+          "airplane": "Airbus A350",
+          "airline": "Asiana Airlines",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/OZ.png",
+          "travel_class": "Economy",
+          "flight_number": "OZ 212",
+          "legroom": "32 in",
+          "extensions": [
+            "Above average legroom (32 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 696 kg"
+          ],
+          "overnight": true,
+          "often_delayed_by_over_30_min": true
+        },
+        {
+          "departure_airport": {
+            "name": "San Francisco International Airport",
+            "id": "SFO",
+            "time": "2025-03-17 18:04"
+          },
+          "arrival_airport": {
+            "name": "Austin-Bergstrom International Airport",
+            "id": "AUS",
+            "time": "2025-03-17 23:33"
+          },
+          "duration": 209,
+          "airplane": "Boeing 737MAX 9 Passenger",
+          "airline": "Alaska",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AS.png",
+          "travel_class": "Economy",
+          "flight_number": "AS 534",
+          "ticket_also_sold_by": [
+            "Hawaiian"
+          ],
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 219 kg"
+          ]
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 140,
+          "name": "Incheon International Airport",
+          "id": "ICN"
+        },
+        {
+          "duration": 184,
+          "name": "San Francisco International Airport",
+          "id": "SFO"
+        }
+      ],
+      "total_duration": 1258,
+      "carbon_emissions": {
+        "this_flight": 1018000,
+        "typical_for_this_route": 851000,
+        "difference_percent": 20
+      },
+      "price": 1023,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/multi.png",
+      "booking_token": "WyJDalJJVTB0VFlYVlFXamxxY1VsQlJuZGpWbmRDUnkwdExTMHRMUzB0TFhaMGNtZ3hOa0ZCUVVGQlIyWlhZMVpOUVU5ZlMzVkJFaEZQV2pNek5IeFBXakl4TW54QlV6VXpOQm9MQ1B5ZUJoQUNHZ05WVTBRNEhIRDhuZ1k9IixbWyJQRUsiLCIyMDI1LTAzLTE3IiwiSUNOIixudWxsLCJPWiIsIjMzNCJdLFsiSUNOIiwiMjAyNS0wMy0xNyIsIlNGTyIsbnVsbCwiT1oiLCIyMTIiXSxbIlNGTyIsIjIwMjUtMDMtMTciLCJBVVMiLG51bGwsIkFTIiwiNTM0Il1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Beijing Capital International Airport",
+            "id": "PEK",
+            "time": "2025-03-17 10:50"
+          },
+          "arrival_airport": {
+            "name": "Incheon International Airport",
+            "id": "ICN",
+            "time": "2025-03-17 13:45"
+          },
+          "duration": 115,
+          "airplane": "Boeing 777",
+          "airline": "Asiana Airlines",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/OZ.png",
+          "travel_class": "Economy",
+          "flight_number": "OZ 332",
+          "legroom": "33 in",
+          "extensions": [
+            "Above average legroom (33 in)",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 99 kg"
+          ]
+        },
+        {
+          "departure_airport": {
+            "name": "Incheon International Airport",
+            "id": "ICN",
+            "time": "2025-03-17 17:50"
+          },
+          "arrival_airport": {
+            "name": "Dallas Fort Worth International Airport",
+            "id": "DFW",
+            "time": "2025-03-17 16:45"
+          },
+          "duration": 775,
+          "airplane": "Boeing 777",
+          "airline": "American",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "travel_class": "Economy",
+          "flight_number": "AA 280",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 691 kg"
+          ],
+          "overnight": true,
+          "often_delayed_by_over_30_min": true
+        },
+        {
+          "departure_airport": {
+            "name": "Dallas Fort Worth International Airport",
+            "id": "DFW",
+            "time": "2025-03-17 19:00"
+          },
+          "arrival_airport": {
+            "name": "Austin-Bergstrom International Airport",
+            "id": "AUS",
+            "time": "2025-03-17 20:06"
+          },
+          "duration": 66,
+          "airplane": "Embraer 175",
+          "airline": "American",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "travel_class": "Economy",
+          "flight_number": "AA 3748",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 70 kg"
+          ]
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 245,
+          "name": "Incheon International Airport",
+          "id": "ICN"
+        },
+        {
+          "duration": 135,
+          "name": "Dallas Fort Worth International Airport",
+          "id": "DFW"
+        }
+      ],
+      "total_duration": 1336,
+      "carbon_emissions": {
+        "this_flight": 861000,
+        "typical_for_this_route": 851000,
+        "difference_percent": 1
+      },
+      "price": 1062,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/multi.png",
+      "booking_token": "WyJDalJJVTB0VFlYVlFXamxxY1VsQlJuZGpWbmRDUnkwdExTMHRMUzB0TFhaMGNtZ3hOa0ZCUVVGQlIyWlhZMVpOUVU5ZlMzVkJFaEpQV2pNek1ueEJRVEk0TUh4QlFUTTNORGdhQ3dqUXZRWVFBaG9EVlZORU9CeHcwTDBHIixbWyJQRUsiLCIyMDI1LTAzLTE3IiwiSUNOIixudWxsLCJPWiIsIjMzMiJdLFsiSUNOIiwiMjAyNS0wMy0xNyIsIkRGVyIsbnVsbCwiQUEiLCIyODAiXSxbIkRGVyIsIjIwMjUtMDMtMTciLCJBVVMiLG51bGwsIkFBIiwiMzc0OCJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Beijing Capital International Airport",
+            "id": "PEK",
+            "time": "2025-03-17 07:30"
+          },
+          "arrival_airport": {
+            "name": "Hong Kong International Airport",
+            "id": "HKG",
+            "time": "2025-03-17 11:15"
+          },
+          "duration": 225,
+          "airplane": "Airbus A330",
+          "airline": "Cathay Pacific",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/CX.png",
+          "travel_class": "Economy",
+          "flight_number": "CX 345",
+          "legroom": "32 in",
+          "extensions": [
+            "Above average legroom (32 in)",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 167 kg"
+          ]
+        },
+        {
+          "departure_airport": {
+            "name": "Hong Kong International Airport",
+            "id": "HKG",
+            "time": "2025-03-17 12:25"
+          },
+          "arrival_airport": {
+            "name": "Los Angeles International Airport",
+            "id": "LAX",
+            "time": "2025-03-17 10:05"
+          },
+          "duration": 760,
+          "airplane": "Boeing 777",
+          "airline": "Cathay Pacific",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/CX.png",
+          "travel_class": "Economy",
+          "flight_number": "CX 884",
+          "legroom": "32 in",
+          "extensions": [
+            "Above average legroom (32 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 646 kg"
+          ],
+          "overnight": true
+        },
+        {
+          "departure_airport": {
+            "name": "Los Angeles International Airport",
+            "id": "LAX",
+            "time": "2025-03-17 13:50"
+          },
+          "arrival_airport": {
+            "name": "Austin-Bergstrom International Airport",
+            "id": "AUS",
+            "time": "2025-03-17 18:45"
+          },
+          "duration": 175,
+          "airplane": "Boeing 737",
+          "airline": "American",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "travel_class": "Economy",
+          "flight_number": "AA 392",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 178 kg"
+          ]
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 70,
+          "name": "Hong Kong International Airport",
+          "id": "HKG"
+        },
+        {
+          "duration": 225,
+          "name": "Los Angeles International Airport",
+          "id": "LAX"
+        }
+      ],
+      "total_duration": 1455,
+      "carbon_emissions": {
+        "this_flight": 993000,
+        "typical_for_this_route": 851000,
+        "difference_percent": 17
+      },
+      "price": 1063,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/multi.png",
+      "booking_token": "WyJDalJJVTB0VFlYVlFXamxxY1VsQlJuZGpWbmRDUnkwdExTMHRMUzB0TFhaMGNtZ3hOa0ZCUVVGQlIyWlhZMVpOUVU5ZlMzVkJFaEZEV0RNME5YeERXRGc0Tkh4QlFUTTVNaG9MQ0pXK0JoQUNHZ05WVTBRNEhIQ1Z2Z1k9IixbWyJQRUsiLCIyMDI1LTAzLTE3IiwiSEtHIixudWxsLCJDWCIsIjM0NSJdLFsiSEtHIiwiMjAyNS0wMy0xNyIsIkxBWCIsbnVsbCwiQ1giLCI4ODQiXSxbIkxBWCIsIjIwMjUtMDMtMTciLCJBVVMiLG51bGwsIkFBIiwiMzkyIl1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Beijing Capital International Airport",
+            "id": "PEK",
+            "time": "2025-03-17 14:15"
+          },
+          "arrival_airport": {
+            "name": "Incheon International Airport",
+            "id": "ICN",
+            "time": "2025-03-17 17:35"
+          },
+          "duration": 140,
+          "airplane": "Airbus A321neo",
+          "airline": "Korean Air",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/KE.png",
+          "travel_class": "Economy",
+          "flight_number": "KE 856",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 90 kg"
+          ]
+        },
+        {
+          "departure_airport": {
+            "name": "Incheon International Airport",
+            "id": "ICN",
+            "time": "2025-03-17 20:05"
+          },
+          "arrival_airport": {
+            "name": "Seattle–Tacoma International Airport",
+            "id": "SEA",
+            "time": "2025-03-17 14:40"
+          },
+          "duration": 635,
+          "airplane": "Airbus A330-900neo",
+          "airline": "Delta",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "travel_class": "Economy",
+          "flight_number": "DL 196",
+          "ticket_also_sold_by": [
+            "Korean Air"
+          ],
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Free Wi-Fi",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 414 kg"
+          ],
+          "overnight": true
+        },
+        {
+          "departure_airport": {
+            "name": "Seattle–Tacoma International Airport",
+            "id": "SEA",
+            "time": "2025-03-17 17:35"
+          },
+          "arrival_airport": {
+            "name": "Austin-Bergstrom International Airport",
+            "id": "AUS",
+            "time": "2025-03-17 23:41"
+          },
+          "duration": 246,
+          "airplane": "Airbus A220-100 Passenger",
+          "airline": "Delta",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "travel_class": "Economy",
+          "flight_number": "DL 848",
+          "ticket_also_sold_by": [
+            "Korean Air"
+          ],
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Free Wi-Fi",
+            "In-seat power & USB outlets",
+            "Live TV",
+            "Carbon emissions estimate: 309 kg"
+          ]
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 150,
+          "name": "Incheon International Airport",
+          "id": "ICN"
+        },
+        {
+          "duration": 175,
+          "name": "Seattle–Tacoma International Airport",
+          "id": "SEA"
+        }
+      ],
+      "total_duration": 1346,
+      "carbon_emissions": {
+        "this_flight": 814000,
+        "typical_for_this_route": 851000,
+        "difference_percent": -4
+      },
+      "price": 1277,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/multi.png",
+      "booking_token": "WyJDalJJVTB0VFlYVlFXamxxY1VsQlJuZGpWbmRDUnkwdExTMHRMUzB0TFhaMGNtZ3hOa0ZCUVVGQlIyWlhZMVpOUVU5ZlMzVkJFaEZMUlRnMU5ueEVUREU1Tm54RVREZzBPQm9MQ0tIbEJ4QUNHZ05WVTBRNEhIQ2g1UWM9IixbWyJQRUsiLCIyMDI1LTAzLTE3IiwiSUNOIixudWxsLCJLRSIsIjg1NiJdLFsiSUNOIiwiMjAyNS0wMy0xNyIsIlNFQSIsbnVsbCwiREwiLCIxOTYiXSxbIlNFQSIsIjIwMjUtMDMtMTciLCJBVVMiLG51bGwsIkRMIiwiODQ4Il1dXQ=="
+    }
+  ]
+}
