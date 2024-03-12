@@ -57,7 +57,8 @@ def get_mock_flight_data(source, destination, date):
         formatted_date = "2025-03-17"
     
     # Construct the SERP API URL with the actual API key
-    serp_api_url = f"https://serpapi.com/search.json?engine=google_flights&type=2&departure_id={source_code}&arrival_id={destination_code}&outbound_date={formatted_date}&currency=USD&hl=en&api_key=REMOVED"
+    SERP_API_KEY = os.getenv("SERP_API_KEY")
+    serp_api_url = f"https://serpapi.com/search.json?engine=google_flights&type=2&departure_id={source_code}&arrival_id={destination_code}&outbound_date={formatted_date}&currency=USD&hl=en&api_key={SERP_API_KEY }"
 
     print(f"Using SERP API URL: {serp_api_url}")
     
